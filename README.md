@@ -175,5 +175,5 @@ The project is open to public contribution. Please feel very free to contribute.
 Experienced an issue or want to report a bug? Please, [report it here](https://github.com/wilburt/flutter_paystack/issues). Remember to be as descriptive as possible.
 
 ## :trophy: Credits
-Thanks to (https://github.com/wilburx9) for his initial work on this as well as the authors of Paystack [iOS](https://github.com/PaystackHQ/paystack-ios) and [Android](https://github.com/PaystackHQ/paystack-android) SDKS.
+Thanks to [wilburx9](https://github.com/wilburx9) for his initial work on this, not forgetting the authors of Paystack [iOS](https://github.com/PaystackHQ/paystack-ios) and [Android](https://github.com/PaystackHQ/paystack-android) SDKS.
 
